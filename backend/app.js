@@ -11,7 +11,7 @@ const NotFoundError = require('./errors/NotFoundError');
 require('dotenv').config();
 
 // Слушаем 3000 порт
-const { NODE_ENV, JWT_SECRET, PORT = 3000 } = process.env;
+const { PORT = 3000 } = process.env;
 
 const app = express();
 
