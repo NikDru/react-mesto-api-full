@@ -1,3 +1,5 @@
+[![Tests](https://github.com/NikDru/react-mesto-api-full-gha/actions/workflows/tests.yml/badge.svg)](https://github.com/NikDru/react-mesto-api-full-gha/actions/workflows/tests.yml)
+
 # react-mesto-api-full
 Финальный проект курса Веб-разработчик от Яндекс.Практикум (c).
 
